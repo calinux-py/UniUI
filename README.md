@@ -186,7 +186,7 @@ If your message includes any phrases from `config/terminal.csv`, the bot will at
 - **Example**:
 
   ```
-  /uniui Run command to list all files
+  /uniui Using the terminal, list all files in the current directory.
   ```
 
 ### Memory Recall
