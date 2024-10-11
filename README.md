@@ -1,9 +1,10 @@
 # UniUI AI Discord Bot
 
-UniUI is a Discord bot that allows users to run Windows terminal commands without needing to know specific syntax. It also tracks users and remembers past conversations for a more personalized experience. Simply ask the bot to perform tasks, and it handles the command execution for you​ and reads the output back to you.
+UniUI is an intelligent Discord bot that can communicate, store memories, and even execute terminal commands on Windows.
 
 ## Table of Contents
 
+- [About](#about)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -20,6 +21,10 @@ UniUI is a Discord bot that allows users to run Windows terminal commands withou
 - [Usage](#usage)
 - [Logging](#logging)
 - [License](#license)
+
+## About
+
+UniUI is a Discord bot that integrates with OpenAI's GPT models to generate interactive responses to user messages, while maintaining a per-user memory of past interactions. It detects certain phrases to switch into a terminal mode, where it translates user requests into Windows PowerShell commands, executes them on the server, and returns the output or explanations back to the user. Additionally, the bot includes safeguards against prompt manipulation attempts and provides witty responses when such attempts are detected.
 
 ## Features
 
