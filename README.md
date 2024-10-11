@@ -43,14 +43,14 @@ UniUI is a Discord bot that allows users to run Windows terminal commands withou
 
 1. **Clone the Repository**
 
-   ```bash
+   ```shell
    git clone https://github.com/calinux-py/UniUI.git
    cd UniUI
    ```
 
 2. **Install Required Packages**
 
-   ```bash
+   ```shell
    pip install -r requirements.txt
    ```
 
