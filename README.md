@@ -2,7 +2,7 @@
 
 UniUI is an intelligent Discord bot that can communicate, store memories, and even execute terminal commands on Windows.
 
-[<img src="https://github.com/calinux-py/UniUI/blob/main/config/Screenshot%202024-10-10%20204138.png?raw=true" alt="Ephemeral Logo" width="71%">](https://github.com/calinux-py/Ephemeral)
+[<img src="https://github.com/calinux-py/UniUI/blob/main/config/Screenshot%202024-10-10%20204138.png?raw=true" alt="Ephemeral Logo" width="63%">](https://github.com/calinux-py/Ephemeral)
 
 ## Table of Contents
 
