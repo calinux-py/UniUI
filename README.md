@@ -24,7 +24,7 @@ UniUI is an intelligent Discord bot that can communicate, store memories, and ev
 
 ## About
 
-UniUI is a Discord bot that integrates with OpenAI's GPT models to generate interactive responses to user messages, while maintaining a per-user memory of past interactions. It detects certain phrases to switch into a terminal mode, where it translates user requests into Windows PowerShell commands, executes them on the server, and returns the output or explanations back to the user. Additionally, the bot includes safeguards against prompt manipulation attempts and provides witty responses when such attempts are detected.
+UniUI is a Discord bot that integrates with OpenAI's GPT models to generate interactive responses to user messages, while maintaining a per-user memory of past interactions. It detects certain phrases to switch into a terminal mode, where it translates user requests into Windows Cmd/PowerShell commands, executes them on the server, and returns the output or explanations back to the user. Additionally, the bot includes safeguards against prompt manipulation attempts and provides witty responses when such attempts are detected.
 
 ## Features
 
