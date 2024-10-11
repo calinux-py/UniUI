@@ -32,7 +32,7 @@ UniUI is a Discord bot that integrates with OpenAI's GPT models to generate inte
 - **Terminal Command Execution**: Translate user messages into Windows terminal or PowerShell commands and execute them.
 - **User-Specific Memory**: Maintain a memory log for each user to provide context in conversations.
 - **Customizable Prompts**: Modify the system prompt to change the bot's behavior.
-- **Command Logging**: Logs all user interactions and bot responses for auditing purposes.
+- **Command Logging**: Logs all user interactions and bot responses.
 - **Configurable AI Settings**: Adjust model parameters like temperature and max tokens.
 
 ## Prerequisites
