@@ -198,8 +198,8 @@ The bot maintains a memory of your past interactions, limited by the count speci
 - **Logs Directory**: `config/logs/`
 - **Memory Files**: `config/gptmemory/<user_id>/memory.ini`
 
-All interactions are logged with timestamps, user IDs, and messages for auditing and debugging purposes.
+All interactions are logged with timestamps, user IDs, and messages.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+MIT
