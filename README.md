@@ -70,8 +70,8 @@ UniUI is a Discord bot that allows users to run Windows terminal commands withou
 
 4. **Run the Bot**
 
-   ```bash
-   python bot.py
+   ```cmd
+   python UniUI.py
    ```
 
 ## Configuration
