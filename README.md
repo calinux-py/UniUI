@@ -56,7 +56,7 @@ UniUI is a Discord bot that allows users to run Windows terminal commands withou
 
 3. **Set Up Configuration Files**
 
-   Create the following configuration files inside a `config` directory. See the [Configuration](#configuration) section for details.
+   Edit the following configuration files inside a `config` directory. See the [Configuration](#configuration) section for details.
 
    - `config/prompt.ini`
    - `config/openaikey.ini`
