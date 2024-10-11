@@ -162,8 +162,8 @@ alter behavior
 Includes phrases to trigger a specific Easter egg response about the word "Strawberry."
 
 ```
-spell strawberry
-how many r in strawberry
+how many rs in strawberry
+strawberry has how many rs
 ```
 
 ## Usage
