@@ -131,10 +131,10 @@ Specifies the bot's display name and Discord command name.
 
 ```ini
 [app name]
-name = GPT Enhanced Bot
+name = UniUI
 
 [discord command name]
-name_must_be_lowercase = gptbot
+name_must_be_lowercase = uniui
 ```
 
 ### config/terminal.csv
