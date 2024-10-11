@@ -1,4 +1,4 @@
-# Discord GPT-Enhanced Bot
+# UniUI AI Discord Bot
 
 A versatile Discord bot powered by OpenAI's GPT models, designed to interact with users, execute terminal commands, and maintain user-specific memory logs.
 
