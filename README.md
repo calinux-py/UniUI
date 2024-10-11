@@ -173,11 +173,11 @@ Once the bot is running, you can interact with it on your Discord server using t
 
 ### Basic Interaction
 
-- **Command Format**: `/gptbot <message>`
+- **Command Format**: `/uniui <message>`
 - **Example**:
 
   ```
-  /gptbot Hello, how are you?
+  /uniui Hello, how are you?
   ```
 
 ### Terminal Command Execution
@@ -187,7 +187,7 @@ If your message includes any phrases from `config/terminal.csv`, the bot will at
 - **Example**:
 
   ```
-  /gptbot Run command to list all files
+  /uniui Run command to list all files
   ```
 
 ### Memory Recall
