@@ -34,6 +34,7 @@ UniUI is a Discord bot that integrates with OpenAI's GPT models to generate inte
 - **Customizable Prompts**: Modify the system prompt to change the bot's behavior.
 - **Command Logging**: Logs all user interactions and bot responses.
 - **Configurable AI Settings**: Adjust model parameters like temperature and max tokens.
+- **User Friendly**: Once the bot is running in Python, you won't need to modify the code. Simply adjust the .ini and .csv to your preferences.
 
 ## Prerequisites
 
