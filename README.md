@@ -4,7 +4,7 @@ UniUI is an intelligent Discord bot that can communicate, store memories, and ev
 
 [<img src="https://github.com/calinux-py/UniUI/blob/main/config/Screenshot%202024-10-10%20204138.png?raw=true" alt="Ephemeral Logo" width="63%">](https://github.com/calinux-py/Ephemeral)
 
-![Windows](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/language-Python-darkgreen) ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
+![Windows](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/language-Python-darkgreen) ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 ## Table of Contents
 
