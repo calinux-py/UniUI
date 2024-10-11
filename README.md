@@ -38,7 +38,6 @@ UniUI is a Discord bot that allows users to run Windows terminal commands withou
 - Required Python packages:
   - `openai`
   - `discord`
-  - `configparser`
 
 ## Installation
 
