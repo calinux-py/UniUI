@@ -257,7 +257,7 @@ async def bosintai(interaction: discord.Interaction, message: str):
                     explanation_prompt = (
                         f"The following is the output of this terminal command: {command} that was executed at the user's request:\n"
                         f"```\n{output}\n```"
-                        "Please provide a clear and concise explanation of what this output means for the user. Do not acknowledge this request, simply explain."
+                        f"Please provide a clear and concise explanation of what this output means for the user. Do not acknowledge this request, simply explain. Additionally, answer the user's question: {original_message}"
                     )
 
                     explanation_messages = [
